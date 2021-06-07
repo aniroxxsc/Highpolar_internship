@@ -9,7 +9,7 @@
 1. Creating models
 2. Activating models
 3. Playing with the API
-4. Introducing the Django Admin
+4. Introduction to Django Admin
 
 ### Part3
 1. Writing more views
@@ -18,7 +18,6 @@
 4. Namespacing URL names
 
 ### Part4
-1. Writing your first Django app, part 4
 2. Write a minimal form
 3. Rewriting views.py using generic views
 
