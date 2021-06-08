@@ -21,6 +21,7 @@
 2. Write a minimal form
 3. Rewriting views.py using generic views
 
+
 ### Part5
 1. Introducing automated testing
 2. Basic testing strategies
@@ -33,3 +34,4 @@
 1. Customize the admin form
 2. Customize the admin change list
 3. Customize the admin index page
+=======
