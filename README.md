@@ -20,3 +20,18 @@
 ### Part4
 2. Write a minimal form
 3. Rewriting views.py using generic views
+
+
+### Part5
+1. Introducing automated testing
+2. Basic testing strategies
+
+### Part6
+1. Customize your app’s look and feel
+2. Adding a background-image
+
+### Part7
+1. Customize the admin form
+2. Customize the admin change list
+3. Customize the admin index page
+=======
